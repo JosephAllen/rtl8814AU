@@ -1,9 +1,7 @@
 # rtl8814AU
 Realtek 8814AU USB WiFi Driver for Raspberry Pi.
 
-Forked from [Thomas Pircher](https://github.com/tpircher/rtl8814AU/)' repository which is based on version 4.3.21 of an Edimax driver for the EW-7833UAC device.
-
-Updated with support for kernels >= 4.14.
+Forked from [Thomas Pircher's](https://github.com/tpircher/rtl8814AU/)' repository which is based on version 4.3.21 of an Edimax driver for the EW-7833UAC device.
 
 ## How to install EW-7833UAC adapter on Raspberry Pi
 
@@ -40,7 +38,7 @@ Everything will be done in a Terminal program.  The commands are in green below.
    cd rtl8814AU/
    ```
 
-   [ Note:  After 'rt' is a letter 'l' (like lemon), not a number '1' (like 1990).  And right after '88' is a number '1' (like 1990), not a letter 'l' (like lemon).  Typing them wrong will cause GitHub to prompt you inputting a Username and a Password, or saying repository not found. ]
+   > __Note:__  After 'rt' is a letter 'l' (like lemon), not a number '1' (like 1990).  And right after '88' is a number '1' (like 1990), not a letter 'l' (like lemon).  Typing them wrong will cause GitHub to prompt you inputting a Username and a Password, or saying repository not found.
 
 6. Compile and install the GitHub driver using dkms.
 
