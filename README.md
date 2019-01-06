@@ -1,9 +1,7 @@
 # rtl8814AU
-Realtek 8814AU USB WiFi driver.
+Realtek 8814AU USB WiFi Driver for Raspberry Pi.
 
-Forked from [Diederik de Haas](https://github.com/diederikdehaas/rtl8814AU)'
-repository which is based on version 4.3.21 of an Edimax driver for the
-EW-7833UAC device.
+Forked from [Thomas Pircher](https://github.com/tpircher/rtl8814AU/)' repository which is based on version 4.3.21 of an Edimax driver for the EW-7833UAC device.
 
 Updated with support for kernels >= 4.14.
 
