@@ -3,7 +3,7 @@ Realtek 8814AU USB WiFi Driver for Raspberry Pi.
 
 Forked from [Thomas Pircher's](https://github.com/tpircher/rtl8814AU/)' repository which is based on version 4.3.21 of an Edimax driver for the EW-7833UAC device.
 
-## How to install EW-7833UAC adapter on Raspberry Pi
+## How to Install EW-7833UAC Adapter on a Raspberry Pi
 
 This how to is a clone of Edimax [How to install EW-7833UAC adapter on Raspberry Pi](https://edimax.freshdesk.com/support/solutions/articles/14000063861-how-to-install-ew-7833uac-adapter-on-raspberry-pi)
 
